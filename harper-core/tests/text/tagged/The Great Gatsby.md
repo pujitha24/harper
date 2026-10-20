@@ -1308,8 +1308,8 @@
 # I/J     VB/J     N🅪Sg P  NPr🅪Sg/VB+ . I/Ddem+ VL3 D/P NSg/VB P  NPl/V3+ . D/P+ NSg/J+    NSg/VB+ NSg/R/C
 > ashes   grow like         wheat  into ridges and  hills  and  grotesque gardens ; where   ashes
 # NPl/V3+ VB   NSg/VB/J/C/P NSg/J+ P    NPl/V3 VB/C NPl/V3 VB/C NSg/J     NPl/V3+ . NSg/R/C NPl/V3+
-> take   the forms  of houses and  chimneys and  rising    smoke    and  , finally , with a
-# NSg/VB D   NPl/V3 P  NPl/V3 VB/C NPl/V3+  VB/C Nᴹ/Vg/J/P N🅪Sg/VB+ VB/C . R       . P    D/P
+> take   the forms  of houses and  chimneys and  rising  smoke    and  , finally , with a
+# NSg/VB D   NPl/V3 P  NPl/V3 VB/C NPl/V3+  VB/C Nᴹ/Vg/J N🅪Sg/VB+ VB/C . R       . P    D/P
 > transcendent effort   , of ash      - gray           men  , who    move   dimly and  already crumbling
 # NSg/J        N🅪Sg/VB+ . P  N🅪Sg/VB+ . NPr🅪Sg/VB/J/Am NPl+ . NPr/I+ NSg/VB R     VB/C R       Nᴹ/Vg/J
 > through the powdery air      . Occasionally a   line   of gray            cars crawls along an
@@ -4132,8 +4132,8 @@
 #
 > Over    the great  bridge   , with the sunlight through the girders making  a   constant
 # NSg/J/P D+  NSg/J+ N🅪Sg/VB+ . P    D+  NSg/VB+  J/P     D   NPl     Nᴹ/Vg/J D/P NSg/J
-> flicker upon the moving  cars , with the city rising    up         across the river   in        white
-# NSg/VB+ P    D   Nᴹ/Vg/J NPl+ . P    D   NSg+ Nᴹ/Vg/J/P NSg/VB/J/P NSg/P  D   NSg/VB+ NPr/J/R/P NPr🅪Sg/VB/J
+> flicker upon the moving  cars , with the city rising  up         across the river   in        white
+# NSg/VB+ P    D   Nᴹ/Vg/J NPl+ . P    D   NSg+ Nᴹ/Vg/J NSg/VB/J/P NSg/P  D   NSg/VB+ NPr/J/R/P NPr🅪Sg/VB/J
 > heaps  and  sugar    lumps  all          built with a   wish    out          of non - olfactory money   . The city
 # NPl/V3 VB/C N🅪Sg/VB+ NPl/V3 NSg/I/J/C/Dq VP/J+ P    D/P NSg/VB+ NSg/VB/J/R/P P  NSg . NSg/J     N🅪Sg/J+ . D+  NSg+
 > seen    from the Queensboro Bridge   is  always the city seen    for   the first time       , in
@@ -5508,8 +5508,8 @@
 # VP/J     R           NPr/J/R/P Dq   . VB/C . Nᴹ/Vg/J P    D   NSg/J NPr/J   NSg/VB/J+ . NSg/VB
 > meditatively into the garden    . It       was  time      I       went back     . While      the rain     continued
 # R            P    D   NSg/VB/J+ . NPr/ISg+ VLPt N🅪Sg/VB/J ISg/#r+ VPt  NSg/VB/J . NSg/VB/C/P D+  N🅪Sg/VB+ VP/J
-> it       had seemed like         the murmur of their voices  , rising    and  swelling a   little     now
-# NPr/ISg+ VP  VP/J   NSg/VB/J/C/P D   NSg/VB P  D$+   NPl/V3+ . Nᴹ/Vg/J/P VB/C Nᴹ/Vg/J  D/P NPr/I/J/Dq NSg/J/R/C
+> it       had seemed like         the murmur of their voices  , rising  and  swelling a   little     now
+# NPr/ISg+ VP  VP/J   NSg/VB/J/C/P D   NSg/VB P  D$+   NPl/V3+ . Nᴹ/Vg/J VB/C Nᴹ/Vg/J  D/P NPr/I/J/Dq NSg/J/R/C
 > and  then      with gusts  of emotion . But     in        the new    silence I       felt      that     silence had
 # VB/C NSg/J/R/C P    NPl/V3 P  N🅪Sg+   . NSg/C/P NPr/J/R/P D+  NSg/J+ NSg/VB+ ISg/#r+ N🅪Sg/VP/J I/C/Ddem NSg/VB+ VP
 > fallen within  the house   too .

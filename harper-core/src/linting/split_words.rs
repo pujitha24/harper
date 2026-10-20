@@ -278,6 +278,13 @@ mod tests {
         );
     }
 
+    /// Issue 4393: `suprising` should be left to the spellchecker (`surprising`).
+    #[test]
+    fn defers_suprising_to_spellcheck() {
+        assert_no_lints("This is a suprising result.", SplitWords::default());
+        assert_no_lints("A suprising result.", SplitWords::default());
+    }
+
     #[test]
     fn ignores_known_compound_words() {
         assert_no_lints("Someone left early.", SplitWords::default());

@@ -834,8 +834,8 @@
 # NSg/I/J/C/Dq . .
 >
 #
-> “ In        that      case       , ” said the Dodo solemnly , rising    to its     feet , “ I       move   that     the
-# . NPr/J/R/P I/C/Ddem+ NPr🅪Sg/VB+ . . VP/J D   NSg  R        . Nᴹ/Vg/J/P P  ISg/D$+ NPl+ . . ISg/#r+ NSg/VB I/C/Ddem D
+> “ In        that      case       , ” said the Dodo solemnly , rising  to its     feet , “ I       move   that     the
+# . NPr/J/R/P I/C/Ddem+ NPr🅪Sg/VB+ . . VP/J D   NSg  R        . Nᴹ/Vg/J P  ISg/D$+ NPl+ . . ISg/#r+ NSg/VB I/C/Ddem D
 > meeting    adjourn , for   the immediate adoption of more         energetic remedies — ”
 # N🅪Sg/Vg/J+ VB      . R/C/P D   J         N🅪Sg     P  NPr/I/J/R/Dq NSg/J     NPl/V3+  . .
 >
