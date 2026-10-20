@@ -1150,7 +1150,9 @@ mod tests {
     use super::LintGroup;
     use crate::linting::LintKind;
     use crate::linting::pooled_linter::for_tests::create_test_pool;
-    use crate::linting::tests::{assert_no_lints, assert_suggestion_result};
+    use crate::linting::tests::{
+        assert_no_lints, assert_suggestion_count, assert_suggestion_result,
+    };
     use crate::spell::{FstDictionary, MutableDictionary};
     use crate::weir::WeirLinter;
     use crate::{Dialect, Document, linting::Linter};
@@ -1410,5 +1412,10 @@ mod tests {
             test_linter(),
             "IMO these kind of advice never matters.",
         );
+    }
+
+    #[test]
+    fn their_to_theyre_has_no_duplicate_suggestion_4514() {
+        assert_suggestion_count("Their going to be late.", test_linter(), 1);
     }
 }

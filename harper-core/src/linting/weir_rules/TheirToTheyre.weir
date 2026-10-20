@@ -3,7 +3,7 @@ expr main [<(their [AUX, (supposed to), (allowed to), (invited to), (going to), 
 let message "Did you mean `they're`?"
 let description "Corrects `their` when the intended meaning is `they're`."
 let kind "Grammar"
-let becomes ["they're", "they're "]
+let becomes "they're"
 
 test "Their going to be late." "They're going to be late."
 test "I think their already here." "I think they're already here."
