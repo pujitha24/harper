@@ -78,7 +78,7 @@ fn convert_parbreaks<'a>(buf: &'a mut Vec<SyntaxNode>, exprs: &'a [Expr]) -> Vec
 #[cfg(test)]
 mod tests {
     use super::*;
-    use harper_core::parsers::StrParser;
+    use harper_core::{TokenKind, parsers::StrParser};
 
     #[test]
     fn issue_1898() {
@@ -96,5 +96,16 @@ mod tests {
             .collect_vec();
 
         assert_eq!(spans, vec![(7, 8), (12, 13)]);
+    }
+
+    #[test]
+    fn issue_1961_footnote_does_not_split_sentence() {
+        let tokens = Typst.parse_str("For any number#footnote[Example] of clients, that is.");
+
+        assert!(
+            !tokens
+                .iter()
+                .any(|t| matches!(t.kind, TokenKind::ParagraphBreak))
+        );
     }
 }

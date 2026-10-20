@@ -328,6 +328,9 @@ impl<'a> TypstTranslator<'a> {
                     "std.raw" | "raw" => parse_args_ignored(false, &["syntaxes", "theme"]),
                     "std.image" | "image" => parse_args_ignored(true, &[]),
                     "std.regex" | "regex" => parse_args_ignored(true, &[]),
+                    // Footnote bodies are not part of the surrounding sentence, and isolating
+                    // them would split it in two.
+                    "std.footnote" | "footnote" => parse_args_ignored(true, &[]),
                     _ if text.ends_with(".display") => parse_args_ignored(true, &[]),
                     _ => parse_args(&mut func.args().items()),
                 }
